@@ -1,0 +1,12 @@
+machine:
+  ruby:
+    version: 2.1.5
+
+dependencies:
+  override:
+    - bundle install
+
+test:
+  override:
+    - bundle exec rake spec
+
