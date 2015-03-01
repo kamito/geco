@@ -3,6 +3,8 @@ machine:
     version: 2.1.5
 
 dependencies:
+  pre:
+    - gem install bundler --version '>= 1.7.0'
   override:
     - bundle install
 
