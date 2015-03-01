@@ -2,6 +2,7 @@
 
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE.txt)
 [![Gem Version](https://badge.fury.io/rb/geco.svg)](http://badge.fury.io/rb/geco)
+[![Circle CI](https://circleci.com/gh/minimum2scp/geco.svg?style=shield)](https://circleci.com/gh/minimum2scp/geco)
 [![Code Climate](https://codeclimate.com/github/minimum2scp/geco/badges/gpa.svg)](https://codeclimate.com/github/minimum2scp/geco)
 
 geco = gcloud + peco: select GCP resource using peco, and run gcloud
