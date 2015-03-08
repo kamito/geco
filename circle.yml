@@ -5,10 +5,4 @@ machine:
 dependencies:
   pre:
     - gem install bundler --version '>= 1.7.0'
-  override:
-    - bundle install
-
-test:
-  override:
-    - bundle exec rake spec
 
